@@ -1,0 +1,84 @@
+[
+    {
+        "nombre": "PureGlow",
+        "precio": "$ 16.990",
+        "imagen": "assets/img/producto-01.png"
+    },
+    
+    {
+        "nombre": "ZenZest",
+        "precio": "$ 16.990",
+        "imagen": "assets/img/producto-17.png"
+    },
+    {
+        "nombre": "GlowGuard",
+        "precio": "$ 16.990",
+        "imagen": "assets/img/producto-03.png"
+    },
+    {
+        "nombre": "NaturaBreeze",
+        "precio": "$ 16.990",
+        "imagen": "assets/img/producto-04.png"
+    },
+    {
+        "nombre": "AquaPurify",
+        "precio": "$ 16.990",
+        "imagen": "assets/img/producto-05.png"
+    },
+    {
+        "nombre": "RadiantRinse",
+        "precio": "$ 16.990",
+        "imagen": "assets/img/producto-06.png"
+    },
+    {
+        "nombre": "LumiCleanse",
+        "precio": "$ 16.990",
+        "imagen": "assets/img/producto-07.png"
+    },
+    {
+        "nombre": "VitaBloom",
+        "precio": "$ 16.990",
+        "imagen": "assets/img/producto-09.png"
+    },
+    
+    {
+        "nombre": "SilkElixir",
+        "precio": "$ 16.990",
+        "imagen": "assets/img/producto-10.png"
+    },
+    {
+        "nombre": "ClearRadiance",
+        "precio": "$ 16.990",
+        "imagen": "assets/img/producto-11.png"
+    },
+    {
+        "nombre": "HydraBliss",
+        "precio": "$ 16.990",
+        "imagen": "assets/img/producto-12.png"
+    },
+    {
+        "nombre": "CelestialGlow",
+        "precio": "$ 16.990",
+        "imagen": "assets/img/producto-18.png"
+    },
+    {
+        "nombre": "VelvetPure",
+        "precio": "$ 16.990",
+        "imagen": "assets/img/producto-15.png"
+    },
+    {
+        "nombre": "FlawlessDew",
+        "precio": "$ 16.990",
+        "imagen": "assets/img/producto-19.png"
+    },
+    {
+        "nombre": "EternalYouth",
+        "precio": "$ 16.990",
+        "imagen": "assets/img/producto-20.png"
+    },
+    {
+        "nombre": "GlowRevive",
+        "precio": "$ 16.990",
+        "imagen": "assets/img/producto-21.png"
+    }
+]
